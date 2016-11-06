@@ -1,0 +1,11 @@
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\bin\Debug\Ahorcado.xml
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbprojResolveAssemblyReference.cache
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Frm1.resources
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Resources.resources
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbproj.GenerateResource.Cache
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\obj\Debug\Ahorcado.xml
+D:\WS\Visual Studio 2015\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
